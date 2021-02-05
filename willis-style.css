@@ -1,0 +1,69 @@
+body {
+  background-color: #F2EFEA;
+}
+h1 {
+  margin: 10px;
+  padding: 30px;
+  font-family: Parisienne, cursive;
+  font-size: 40px;
+  color: #F2EFEA;
+  background-color: #556052;
+  border: 10px double black;
+  border-radius: 3px;
+  border-color: #CBBCB1;
+}
+a {
+  text-decoration: none;
+  color: #F2EFEA;
+}
+.basics {
+  margin: 10px;
+  padding: 20px;
+  font-family: Roboto+Slab, serif;
+  color: #556052;
+  font-size: 30px;
+  border-radius: 3px;
+  border: 10px double black;
+  border-style: hidden;
+}
+.icebreakers {
+  margin: 10px;
+  padding: 50px;
+  font-family: Roboto+Slab, serif;
+  color: #F2EFEA;
+  background-color: #AF6B58;
+  font-size: 30px;
+  border: 10px dashed black;
+  border-radius: 3px;
+  border-color: #CBBCB1;
+}
+.pigphoto {
+  margin: 10px;
+  padding: 50px;
+  font-family: Roboto+Slab, serif;
+  color: #F2EFEA;
+  font-size: 30px;
+  background-color: #AF6B58;
+  border: 10px solid black;
+  border-style: dotted solid solid dotted;
+  border-color: #CBBCB1;
+  border-radius: 3px;
+}
+img {
+  border: 10px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  width:500px;
+  border-color: #CBBCB1;
+}
+video {
+  border: 10px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  width: 600px;
+  border-color: #CBBCB1;
+  position: absolute;
+  top: 1300px;
+  bottom: .05px;
+  left: 800px;
+}
